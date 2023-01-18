@@ -4,18 +4,23 @@ description: 记录一些入门、复习用的链接
 
 # 学习链接
 
-### [quick ref](https://quickref.cn/)
+[\
+rabbitMq](https://www.rabbitmq.com/getstarted.html)
 
-### [docker](https://vuepress.mirror.docker-practice.com/)
+[quick ref](https://quickref.cn/)
 
-### [nginx](https://dunwu.github.io/nginx-tutorial/#/nginx-quickstart)
+[docker](https://vuepress.mirror.docker-practice.com/)
 
-### [rust](https://kaisery.github.io/trpl-zh-cn/)
+[nginx](https://dunwu.github.io/nginx-tutorial/#/nginx-quickstart)
 
-### [mongoDB](https://docs.mongoing.com/)
+[rust](https://kaisery.github.io/trpl-zh-cn/)
 
-### [spring-cloud](https://www.springcloud.cc)
+[mongoDB](https://docs.mongoing.com/)
 
-### [redis](https://docs.kilvn.com/redis-doc/)
+[spring-cloud](https://www.springcloud.cc)
 
-### [c lang](https://wangchujiang.com/c-tutorial/)
+[redis](https://docs.kilvn.com/redis-doc/)
+
+[c lang](https://wangchujiang.com/c-tutorial/)
+
+\
