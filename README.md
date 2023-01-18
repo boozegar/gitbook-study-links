@@ -36,8 +36,6 @@ description: 记录一些入门、复习用的链接
 
 
 
-[spring-cloud](https://www.springcloud.cc)
-
 
 
 
