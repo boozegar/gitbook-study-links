@@ -22,6 +22,8 @@ description: 记录一些入门、复习用的链接
 
 [mongoDB](https://docs.mongoing.com/)
 
+[mongoDB 对比 sql](https://www.mongodb.com/docs/v4.2/reference/sql-comparison/)
+
 [redis](https://docs.kilvn.com/redis-doc/)
 
 ## Server
