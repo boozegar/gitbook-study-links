@@ -4,13 +4,19 @@ description: 记录一些入门、复习用的链接
 
 # 学习链接
 
-## Lang
+<details>
+
+<summary>LANG</summary>
 
 [quick ref](https://quickref.cn/)
 
 [rust](https://kaisery.github.io/trpl-zh-cn/)
 
 [c lang](https://wangchujiang.com/c-tutorial/)
+
+[TypeScript](https://typescript.bootcss.com/)
+
+</details>
 
 ## Queue
 
