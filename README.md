@@ -4,9 +4,7 @@ description: 记录一些入门、复习用的链接
 
 # 学习链接
 
-<details>
-
-<summary>LANG</summary>
+## LANG
 
 [quick ref](https://quickref.cn/)
 
@@ -15,8 +13,6 @@ description: 记录一些入门、复习用的链接
 [c lang](https://wangchujiang.com/c-tutorial/)
 
 [TypeScript](https://typescript.bootcss.com/)
-
-</details>
 
 ## Queue
 
