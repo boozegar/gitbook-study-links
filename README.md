@@ -36,6 +36,8 @@ description: 记录一些入门、复习用的链接
 
 [nginx](https://dunwu.github.io/nginx-tutorial/#/nginx-quickstart)
 
+[jakarta](https://eclipse-ee4j.github.io/jakartaee-tutorial/)
+
 
 
 
