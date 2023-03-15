@@ -28,6 +28,8 @@ description: 记录一些入门、复习用的链接
 
 [redis](https://docs.kilvn.com/redis-doc/)
 
+[PostgreSQL](http://www.postgres.cn/docs/12/)
+
 ## Server
 
 [spring-cloud](https://www.springcloud.cc)
